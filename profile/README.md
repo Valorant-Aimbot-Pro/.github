@@ -57,7 +57,7 @@ An advanced AI-powered crypto trading bot built on AutoGPT. Designed for both be
 ### 🖼 Preview
 
 **1. Bot Dashboard UI**  
-![Bot Dashboard] (https://eatradingacademy.com/wp-content/uploads/2023/03/chat-gpt-trading-robot-5.jpg)  
+![Bot Dashboard](https://eatradingacademy.com/wp-content/uploads/2023/03/chat-gpt-trading-robot-5.jpg)  
 *Live statistics and performance tracking*
 
 **2. Strategy Builder**  
