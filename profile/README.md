@@ -65,7 +65,7 @@ An advanced AI-powered crypto trading bot built on AutoGPT. Designed for both be
 *No-code strategy editor powered by GPT*
 
 **3. Trade Execution Log**  
-![Trade Logs](https://preview.redd.it/how-to-create-a-cryptocurrency-trading-bot-using-auto-gpt-v0-l8uvf09bopua1.png?width=1101&format=png&auto=webp&s=3d36ee978f4da8099b7c10affdd692c582b1b3b0)  
+![Trade Logs](https://eatradingacademy.com/wp-content/uploads/2023/03/chat-gpt-trading-robot-3.jpg)  
 *Detailed trade logs with timestamps, pairs, and P&L*
 
 ---
