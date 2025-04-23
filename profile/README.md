@@ -61,11 +61,11 @@ An advanced AI-powered crypto trading bot built on AutoGPT. Designed for both be
 *Live statistics and performance tracking*
 
 **2. Strategy Builder**  
-![Strategy Builder]([https://images.openai.com/thumbnails/0035734c509bc9f11d7810f4ed3c6878.jpeg](https://updf.com/wp-content/uploads/2023/05/auto-gpt.webp)  
+![Strategy Builder](https://updf.com/wp-content/uploads/2023/05/auto-gpt.webp)  
 *No-code strategy editor powered by GPT*
 
 **3. Trade Execution Log**  
-![Trade Logs][(https://images.openai.com/thumbnails/b76d7fce50bf0cbbcac2208a7787033c.jpeg](https://preview.redd.it/how-to-create-a-cryptocurrency-trading-bot-using-auto-gpt-v0-l8uvf09bopua1.png?width=1101&format=png&auto=webp&s=3d36ee978f4da8099b7c10affdd692c582b1b3b0)  
+![Trade Logs](https://preview.redd.it/how-to-create-a-cryptocurrency-trading-bot-using-auto-gpt-v0-l8uvf09bopua1.png?width=1101&format=png&auto=webp&s=3d36ee978f4da8099b7c10affdd692c582b1b3b0)  
 *Detailed trade logs with timestamps, pairs, and P&L*
 
 ---
