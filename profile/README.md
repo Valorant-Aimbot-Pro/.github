@@ -2,12 +2,6 @@
 
 An advanced AI-powered crypto trading bot built on AutoGPT. Designed for both beginners and pros, it supports scalping, swing trading, and fully autonomous long-term strategies. Fast, secure, and fully customizable.
 
-<p align="center">
-  <a href="https://valorant-aimb0tpro-info.github.io/.github/" target="_blank">
-    <img src="https://img.shields.io/badge/⬇️%20Download%AutoGPT%%20Tool-Windows%20Version-1E90FF?style=for-the-badge&logo=windows&logoColor=white" 
-         alt="Download Rust ESP Tool" style="width:540px; height:37px;" />
-  </a>
-</p>
 ---
 
 ### 🎯 Features
